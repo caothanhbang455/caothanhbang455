@@ -53,5 +53,5 @@
 
 > “Learning never exhausts the mind – it only ignites it.” 🔥
 >
-![Thanh Bang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caothanhbang455g&show_icons=true&theme=tokyonight)
+![Thanh Bang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caothanhbang455&show_icons=true&theme=tokyonight)
 
