@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Thanh Bằng
 
-🎓 I'm currently a **second-year student** passionate about **Artificial Intelligence**, **Data Science**, and **Computer Vision**.
+🎓 I'm currently a **Third-year student** passionate about **Artificial Intelligence**, **Data Science**, and **Computer Vision**.
 
 ---
 
