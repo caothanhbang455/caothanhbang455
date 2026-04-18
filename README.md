@@ -41,15 +41,6 @@
 
 ---
 
-## 📊 Highlights
-
-- Academic Encouragement Scholarship (4 semesters)  
-- GPA: 3.8 / 4.0  
-- IELTS: 6.5  
-- Experience building **production-ready AI systems** with real-world datasets  
-
----
-
 ## 🌐 Contact
 
 - 📧 Email: thanhbangcao04052005@email.com  
