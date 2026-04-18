@@ -1,57 +1,58 @@
-# 👋 Hello! I'm Thanh Bằng
+# 👨‍💻 Thanh Bằng | AI/ML Engineer
 
-🎓 I'm currently a **Third-year student** passionate about **Artificial Intelligence**, **Data Science**, and **Computer Vision**.
-
----
-
-## 🧠 About Me:
-
-🔧 I'm currently working on:  
-→ AI mini-projects, model training, and data visualization with Python.
-
-🤝 I'm looking to collaborate on:  
-→ Computer vision tasks, student-led research, or educational AI projects.
-
-📌 I'm learning & practicing:  
-→ Python, C++, MySQL, `pandas`, `matplotlib`, `seaborn`, `scikit-learn`, and more.
-
-🔬 My focus area right now:  
-→ Fine-tuning pretrained models and building simple image-based AI systems.
-
-💡 Fun fact: I love making boring tasks smarter with automation!
+[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bang-cao-thanh-3b2836315/)](https://www.linkedin.com/in/bang-cao-thanh-3b2836315/)
+[![GitHub followers](https://img.shields.io/github/followers/caothanhbang455?label=Follow&style=social)](https://github.com/caothanhbang455)
 
 ---
 
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+🎯 AI/ML-focused Computer Science student @ HCMUT  
+⚡ Strong background in **Data Science, Machine Learning, and Multimodal AI systems**
 
 ---
 
-## 🧰 Tech Stack:
+<div align="center">
+    <details>
+        <summary><b>GitHub Metrics 👇</b></summary>
+    <br>
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![pandas](https://img.shields.io/badge/-pandas-150458?style=flat&logo=pandas&logoColor=white)  
-![seaborn](https://img.shields.io/badge/-seaborn-0f4c81?style=flat&logo=python&logoColor=white)  
-![matplotlib](https://img.shields.io/badge/-matplotlib-11557C?style=flat&logo=python&logoColor=white)  
-![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
-![Colab](https://img.shields.io/badge/-Google_Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=caothanhbang455&show_icons=true&theme=tokyonight">
+
+</details>
+</div>
 
 ---
 
-## 📈 Goals This Year
+<!-- START OF PROFILE STACK -->
+| 💻 **Technology / Domain** | 🚀 **Projects (Key Contributions)** |
+| - | - |
+| ![Recommendation System](https://img.shields.io/static/v1?label=&message=Recommendation%20System&color=102230&logo=python&logoColor=white) | [![Motorbike Recommendation](https://img.shields.io/static/v1?label=&message=Market%20Segmentation%20%26%20Recommendation&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_REPO) <br/> → TF-IDF + Cosine Similarity, K-Means, GMM <br/> → Elbow, Silhouette for model selection <br/> → Built real-time recommendation demo |
+| ![Data Science](https://img.shields.io/static/v1?label=&message=Multi-Modal%20Data%20Analysis&color=1f77b4&logo=python&logoColor=white) | [![Multi-Modal EDA](https://img.shields.io/static/v1?label=&message=EDA%20System&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_REPO) <br/> → Text + Image + Tabular analysis <br/> → CLIP-style alignment validation <br/> → Data quality detection (missing, imbalance, duplicates) |
+| ![Deep Learning](https://img.shields.io/static/v1?label=&message=Deep%20Learning%20Pipeline&color=ff6f00&logo=pytorch&logoColor=white) | [![DL Web App](https://img.shields.io/static/v1?label=&message=Multi-Modal%20DL%20App&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_REPO) <br/> → Image + Text models (EDOS tasks) <br/> → ONNX conversion & quantization <br/> → Reduced model size & inference latency |
+| ![NLP](https://img.shields.io/static/v1?label=&message=LLM%20%2F%20NLP&color=4caf50&logo=python&logoColor=white) | [![LLM Detection](https://img.shields.io/static/v1?label=&message=Hallucination%20Detection&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_REPO) <br/> → Multi-class classification (intrinsic/extrinsic) <br/> → Sliding window + ensemble <br/> → Top 30 leaderboard |
+| ![Data Pipeline](https://img.shields.io/static/v1?label=&message=Data%20Processing%20Pipeline&color=6a1b9a&logo=databricks&logoColor=white) | [![Data Pipeline](https://img.shields.io/static/v1?label=&message=End-to-End%20ML%20Pipeline&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_REPO) <br/> → Built structured + NLP pipelines <br/> → Achieved 0.8 recall (sentiment), 0.917 R² (price prediction) |
 
-- 📚 Build strong foundations in machine learning & AI
-- 🧪 Finish 3–5 hands-on projects in vision / tabular ML
-- 🌟 Join a student research or AI competition
+<!-- END OF PROFILE STACK -->
 
 ---
 
-> “Learning never exhausts the mind – it only ignites it.” 🔥
->
-![Thanh Bang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=caothanhbang455&show_icons=true&theme=tokyonight)
+## 🧠 Core Skills
 
+- **Machine Learning**: Regression, Classification, Clustering (K-Means, GMM)
+- **Deep Learning**: PyTorch, Transformers, Multimodal models
+- **Data Science**: EDA, Feature Engineering, Statistical Analysis
+- **Tools**: FAISS, ONNX, Streamlit, DVC, MySQL
+
+---
+
+## 📊 Key Strengths
+
+- ⚡ Strong **data preprocessing & feature engineering mindset**  
+- 🔗 Experience with **end-to-end ML pipelines (data → model → deployment)**  
+- 🧠 Ability to work with **multimodal systems (text + image)**  
+- 🚀 Optimization mindset (**quantization, inference efficiency**)  
+
+---
+
+## 🌐 Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/bang-cao-thanh-3b2836315/
