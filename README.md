@@ -6,7 +6,7 @@
 
 ---
 
-🎯 Computer Science student at Ho Chi Minh City University of Technology (GPA: 3.8/4.0)  
+🎯 Computer Science student at Ho Chi Minh City University of Technology  
 
 Applying for **AI/ML Engineer roles** with proven experience in developing and deploying **machine learning, deep learning, and multimodal AI systems**. Strong foundation in **data preprocessing, feature engineering, and model optimization**, with hands-on experience building **end-to-end pipelines from data collection to deployment**. Passionate about solving **real-world problems in computer vision and NLP**, and delivering **scalable, production-ready AI solutions**.
 
