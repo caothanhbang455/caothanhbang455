@@ -1,58 +1,58 @@
-# 👨‍💻 Thanh Bằng | AI/ML Engineer
+# 👨‍💻 Cao Thanh Bang | AI/ML Engineer
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/bang-cao-thanh-3b2836315/)](https://www.linkedin.com/in/bang-cao-thanh-3b2836315/)
-[![GitHub followers](https://img.shields.io/github/followers/caothanhbang455?label=Follow&style=social)](https://github.com/caothanhbang455)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=linkedin)](https://www.linkedin.com/in/bang-cao-thanh-3b2836315/)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=social&logo=facebook&logoColor=white)](https://www.facebook.com/thanhbang.cao.31)
+[![GitHub](https://img.shields.io/github/followers/caothanhbang455?label=Follow&style=social)](https://github.com/caothanhbang455)
 
 ---
 
-🎯 AI/ML-focused Computer Science student @ HCMUT  
-⚡ Strong background in **Data Science, Machine Learning, and Multimodal AI systems**
+🎯 Computer Science student at Ho Chi Minh City University of Technology (GPA: 3.8/4.0)  
+⚡ Specializing in **Machine Learning, Deep Learning, Data Science, and Multimodal AI Systems**
 
 ---
 
 <div align="center">
-    <details>
-        <summary><b>GitHub Metrics 👇</b></summary>
-    <br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=caothanhbang455&show_icons=true&theme=tokyonight">
-
-</details>
+  <img src="https://github-readme-stats.vercel.app/api?username=caothanhbang455&show_icons=true&theme=tokyonight"/>
 </div>
 
 ---
 
 <!-- START OF PROFILE STACK -->
-| 💻 **Technology / Domain** | 🚀 **Projects (Key Contributions)** |
+| 💻 **Domain / Expertise** | 🚀 **Projects & Contributions** |
 | - | - |
-| ![Recommendation System](https://img.shields.io/static/v1?label=&message=Recommendation%20System&color=102230&logo=python&logoColor=white) | [![Motorbike Recommendation](https://img.shields.io/static/v1?label=&message=Market%20Segmentation%20%26%20Recommendation&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_REPO) <br/> → TF-IDF + Cosine Similarity, K-Means, GMM <br/> → Elbow, Silhouette for model selection <br/> → Built real-time recommendation demo |
-| ![Data Science](https://img.shields.io/static/v1?label=&message=Multi-Modal%20Data%20Analysis&color=1f77b4&logo=python&logoColor=white) | [![Multi-Modal EDA](https://img.shields.io/static/v1?label=&message=EDA%20System&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_REPO) <br/> → Text + Image + Tabular analysis <br/> → CLIP-style alignment validation <br/> → Data quality detection (missing, imbalance, duplicates) |
-| ![Deep Learning](https://img.shields.io/static/v1?label=&message=Deep%20Learning%20Pipeline&color=ff6f00&logo=pytorch&logoColor=white) | [![DL Web App](https://img.shields.io/static/v1?label=&message=Multi-Modal%20DL%20App&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_REPO) <br/> → Image + Text models (EDOS tasks) <br/> → ONNX conversion & quantization <br/> → Reduced model size & inference latency |
-| ![NLP](https://img.shields.io/static/v1?label=&message=LLM%20%2F%20NLP&color=4caf50&logo=python&logoColor=white) | [![LLM Detection](https://img.shields.io/static/v1?label=&message=Hallucination%20Detection&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_REPO) <br/> → Multi-class classification (intrinsic/extrinsic) <br/> → Sliding window + ensemble <br/> → Top 30 leaderboard |
-| ![Data Pipeline](https://img.shields.io/static/v1?label=&message=Data%20Processing%20Pipeline&color=6a1b9a&logo=databricks&logoColor=white) | [![Data Pipeline](https://img.shields.io/static/v1?label=&message=End-to-End%20ML%20Pipeline&color=000605&logo=github&logoColor=FFFFFF)](https://github.com/YOUR_REPO) <br/> → Built structured + NLP pipelines <br/> → Achieved 0.8 recall (sentiment), 0.917 R² (price prediction) |
+| **Recommendation Systems & Clustering** | **Motorbike Recommendation & Market Segmentation System** <br/> Developed a data-driven recommendation system using TF-IDF feature engineering and cosine similarity for semantic matching. Applied K-Means, K-Prototypes, and Gaussian Mixture Models (GMM) for market segmentation, with model selection guided by Elbow Method, Silhouette Score, and AIC/BIC. Delivered an end-to-end pipeline and an interactive real-time recommendation demo via Streamlit. |
+| **Multi-Modal Data Analysis** | **Exploratory Data Analysis for Multi-Modal Data** <br/> Conducted comprehensive EDA across tabular, textual, and image data. Performed text preprocessing (tokenization, n-grams, TF-IDF) and statistical analysis, while evaluating multimodal alignment (image-caption pairs). Identified data quality issues including missing values, duplicates, and imbalance, and extracted actionable insights for downstream modeling. |
+| **Deep Learning & System Deployment** | **Deep Learning Multi-Modal Analysis & Web Application** <br/> Designed and implemented a multi-modal deep learning pipeline integrated into an interactive web application. Built and evaluated models for image and text data, optimized inference through ONNX conversion and quantization, and deployed a production-ready system with reduced latency and model size. |
+| **Natural Language Processing (LLMs)** | **LLM Hallucination Detection System** <br/> Developed a multi-class classification system to detect hallucinations in LLM-generated text (intrinsic and extrinsic). Fine-tuned multilingual Transformer models, implemented sliding-window inference and ensemble techniques, and achieved 0.801 recall on blind test data, ranking Top 30 in competition leaderboard. |
+| **AI Systems & Large-Scale Retrieval** | **Scavenger Retrieval-Event AI System** <br/> Built an AI-powered video retrieval system with semantic search using FAISS, supporting large-scale indexing (~200GB video data). Integrated OCR (VietPaddleOCR), image captioning, and contextual embedding retrieval. Designed database schema and maintained real-time query latency of 5–7 seconds. |
+| **Data Processing & Predictive Modeling** | **End-to-End Data Processing Pipelines** <br/> Developed machine learning pipelines for structured and text data, including rental price prediction and sentiment classification. Achieved 0.917 R² for regression tasks and 0.8 recall for classification, demonstrating strong capability in feature engineering and model evaluation. |
 
 <!-- END OF PROFILE STACK -->
 
 ---
 
-## 🧠 Core Skills
+## 🧠 Core Competencies
 
-- **Machine Learning**: Regression, Classification, Clustering (K-Means, GMM)
-- **Deep Learning**: PyTorch, Transformers, Multimodal models
-- **Data Science**: EDA, Feature Engineering, Statistical Analysis
-- **Tools**: FAISS, ONNX, Streamlit, DVC, MySQL
-
----
-
-## 📊 Key Strengths
-
-- ⚡ Strong **data preprocessing & feature engineering mindset**  
-- 🔗 Experience with **end-to-end ML pipelines (data → model → deployment)**  
-- 🧠 Ability to work with **multimodal systems (text + image)**  
-- 🚀 Optimization mindset (**quantization, inference efficiency**)  
+- **Machine Learning & Deep Learning:** Regression, Classification, Clustering (K-Means, GMM), Transformers, Fine-tuning  
+- **Data Science:** Data Preprocessing, EDA, Feature Engineering, Statistical Analysis  
+- **Multimodal AI:** Image-Text alignment, CLIP-style reasoning, cross-modal validation  
+- **Tools & Systems:** PyTorch, TensorFlow, scikit-learn, FAISS, ONNX, DVC, Streamlit, FastAPI  
+- **Programming:** Python, C++, SQL  
 
 ---
 
-## 🌐 Connect
+## 📊 Highlights
 
-- 💼 LinkedIn: https://www.linkedin.com/in/bang-cao-thanh-3b2836315/
+- Academic Encouragement Scholarship (4 semesters)  
+- GPA: 3.8 / 4.0  
+- IELTS: 6.5  
+- Experience building **production-ready AI systems** with real-world datasets  
+
+---
+
+## 🌐 Contact
+
+- 📧 Email: thanhbangcao04052005@email.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/bang-cao-thanh-3b2836315/  
+- 📘 Facebook: https://www.facebook.com/thanhbang.cao.31  
+- 💻 GitHub: https://github.com/caothanhbang455  
