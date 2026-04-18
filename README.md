@@ -6,7 +6,7 @@
 
 ---
 
-🎯 Computer Science student at Ho Chi Minh City University of Technology (GPA: 3.8/4.0)  
+🎯 Computer Science student at Ho Chi Minh City University of Technology  
 ⚡ Specializing in **Machine Learning, Deep Learning, Data Science, and Multimodal AI Systems**
 
 ---
